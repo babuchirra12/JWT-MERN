@@ -1,0 +1,21 @@
+//json web token(JWT)
+//(Middleware)
+
+//Missing feature  without JWT
+
+// Session Management
+// Accessing routers securely
+// Secure Authentication
+//{ "token":"dnljnljnjghuihghuhgou8u84u08035u0u 0u3099gjjg"}
+//Prerequisite to get Started
+
+// Server side
+// npm install express mongoose cors jsonwebtoken
+// npm i -D nodemon concurrently
+// Client side
+// npm i axios react-router-dom redux react-redux redux-devtools-extension
+
+// "client": "npm start --prefix client",    
+    // "dev" : "concurrently \"npm run server\"npm run client\" "
+
+    //npm run dev
